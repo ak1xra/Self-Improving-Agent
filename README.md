@@ -134,4 +134,4 @@ AI導入しない企業は競争力・効率・採用力で不利になる。
 
 ## ライセンス
 
-MIT License
+[MIT License](https://github.com/ak1xra/Self-Improving-Agent/blob/main/LICENSE)
